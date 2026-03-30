@@ -9,9 +9,9 @@
 
 | Platform | Purpose | Profile Link |
 |---|---|---|
-| **GitHub** | Code portfolio, version control, open-source | [github.com/karthikmalepattu](https://github.com/karthikmalepattu) *(update)* |
-| **LinkedIn** | Professional networking, internship visibility | [linkedin.com/in/karthikmalepattu](https://linkedin.com/in/karthikmalepattu) *(update)* |
-| **Kaggle** | Data science practice, ML competitions | [kaggle.com/karthikmalepattu](https://kaggle.com/karthikmalepattu) *(update)* |
+| **GitHub** | Code portfolio, version control, open-source | [github.com/karthikmalepattu](https://github.com/karthikmalepattu) |
+| **LinkedIn** | Professional networking, internship visibility | [linkedin.com/in/karthikmalepattu](https://www.linkedin.com/in/karthik-undefined-b784173bb)  |
+| **Kaggle** | Data science practice, ML competitions | [kaggle.com/karthikmalepattu](https://www.kaggle.com/karthikmalepattu) |
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Reflection (150–200 words)
+## Reflection 
 
 I chose GitHub, LinkedIn, and Kaggle because together they cover the three most important dimensions of a career in technology — what you build, who you know, and what you can prove.
 
@@ -52,6 +52,6 @@ Kaggle rounds it out because it gives me a trackable record of practice. Every c
 
 Over the next four years, I plan to keep all three active: GitHub with real project code, LinkedIn updated after each significant achievement, and Kaggle as my space to experiment and compete.
 
----
 
-> 📸 **Screenshots:** Add your own profile screenshots to the `screenshots/` folder in this directory. Filename them clearly: `github-profile.png`, `linkedin-education.png`, `kaggle-profile.png`.
+
+
