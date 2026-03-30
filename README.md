@@ -73,8 +73,8 @@ Set up and updated accounts across three major professional platforms — **GitH
 
 **Platforms:** GitHub · LinkedIn · Kaggle
 
-> 🔗 **GitHub Profile:** [github.com/karthikmalepattu](https://github.com/karthikmalepattu) *(update with your actual username)*
-> 🔗 **LinkedIn:** [linkedin.com/in/karthikmalepattu](https://linkedin.com/in/karthikmalepattu) *(update with your actual profile)*
+> 🔗 **GitHub Profile:** [github.com/karthikmalepattu](https://github.com/karthikmalepattu) 
+> 🔗 **LinkedIn:** [linkedin.com/in/karthikmalepattu](https://www.linkedin.com/in/karthik-undefined-b784173bb) 
 
 ---
 
@@ -83,7 +83,7 @@ Completed an introductory coding challenge on **HackerRank** (Python domain) and
 
 **Platforms:** HackerRank · Google Forms · Google Sheets
 
-> 🔗 **Digital Literacy Quiz Form:** *(Paste your Google Form link here after creating it)*
+> 🔗 **Digital Literacy Quiz Form:** *(https://docs.google.com/forms/d/e/1FAIpQLScYjcwg2siOSFmTBVgyhBSSxImKAk0ugrGFmShH6p3cyIgpEQ/viewform?usp=dialog)*
 
 ---
 
