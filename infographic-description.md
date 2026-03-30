@@ -31,7 +31,7 @@ The infographic is titled **"Be Digitally Smart"** and is divided into five visu
 
 ---
 
-## Reflection (150–200 words)
+## Reflection 
 
 I used Canva to create this infographic because it offered the most control over layout without requiring any design experience. I started with a blank template and added each section manually, which ended up teaching me more about visual hierarchy than any pre-built template would have.
 
